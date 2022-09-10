@@ -1,0 +1,29 @@
+
+body {
+    margin: 0%;
+    padding: 0%;
+    background: black;
+}
+
+.container {
+    font-family: "Arial", Helvetica, sans-serif;
+    padding: 30px;
+    color: #fff;
+    font-weight: bold;
+    position: absolute;
+    top: 50%;
+    right: 50%;
+    transform: translate(50%, -50%);
+    font-size: 60px;
+    white-space: nowrap;
+    background-color: rgb(40, 166, 189);
+    border-radius: 100%;
+    opacity: 100%;
+    
+}
+
+.container:hover {
+
+
+    box-shadow: 0 0 50px 2px rgb(255, 255, 255);
+}
